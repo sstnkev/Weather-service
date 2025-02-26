@@ -20,5 +20,5 @@
 ## 🛠 Установка и запуск  
 1. **Клонировать репозиторий**  
    ```sh
-   git clone https://github.com/твоя-ссылка/weatherapp.git
-   cd weatherapp
+   git clone https://github.com/sstnkev/Weather-service.git
+   cd weather-service
